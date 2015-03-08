@@ -1,3 +1,3 @@
 "Sexto Programa"
-url GIT:
+url GIT: https://github.com/virtoja13/program6.git	
 url Heroku:
